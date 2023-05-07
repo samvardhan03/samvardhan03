@@ -1,6 +1,6 @@
  About Me:
  
-I'm a web developer turned data enthusiast who loves to code, with a strong foundation in technologies<br>like HTML, CSS, and JavaScript, react.js and flask I've built some web applications and websites<br>that are both functional and visually appealing. But as I delved deeper into the world of <br>data science and machine learning, I found a new passion for exploring the insights and possibilities hidden in data.<br>Currently, I am trying to build innovative projects and models that harness the power of AI and predictive analytics to solve some real-world problems.<br><br>I’m currently working on AIML models like decision trees and neural networks,<br>mostly for prediction analysis.<br>If you're interested in working together or just want to chat about the latest tech trends, feel free to reach out!"
+Hi! I'm a web developer turned data enthusiast who loves to code!<br>Currently, I am trying to build innovative projects and models that harness the power of AI to solve some real-world problems.<br>As of now, I am working on AIML models like decision trees and neural networks,mostly for prediction analysis.<br>If you're interested in working together or just want to chat about the latest tech trends, feel free to reach out!"
 
 
  🌐 Socials:
