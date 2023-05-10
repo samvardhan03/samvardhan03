@@ -1,5 +1,3 @@
- About Me:
- 
 Hi! I'm a web developer turned data enthusiast who loves to code!<br>Currently, I am trying to build innovative projects and models that harness the power of AI to solve some real-world problems.<br>As of now, I am working on AIML models like decision trees and neural networks,mostly for prediction analysis.<br>If you're interested in working together or just want to chat about the latest tech trends, feel free to reach out!"
 
 
