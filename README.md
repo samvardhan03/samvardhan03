@@ -1,4 +1,4 @@
-Hi! I'm a web developer turned data enthusiast who loves to code!<br>Currently, I am trying to build innovative projects and models that harness the power of AI to solve some real-world problems and looking for an opportunity to work.<br>I am actively looking for an opportunity to work in the field of engineering and technology, if you wish to work together on a project, please feel free to reach out!"
+Hi! I'm a web developer turned AI enthusiast who loves to code!<br>Currently, I am trying to build innovative projects and models that harness the power of AI to solve some real-world problems and looking for an opportunity to work.<br>I am actively looking for an opportunity to work in the field of engineering and technology, if you wish to work together on a project, please feel free to reach out!"
 
 Portfolio website: https://samvardhan.vercel.app/
 
